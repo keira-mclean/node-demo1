@@ -9,6 +9,7 @@
   "author": "Keira",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "simple-statistics": "^7.8.3"
   }
 }
